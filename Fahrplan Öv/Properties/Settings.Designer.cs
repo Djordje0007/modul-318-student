@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Projekt.Properties
+namespace Fahrplan_Öv.Properties
 {
 
 
