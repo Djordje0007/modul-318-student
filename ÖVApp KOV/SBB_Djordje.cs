@@ -176,5 +176,9 @@ namespace ÖVApp_KOV
             System.Diagnostics.Process.Start("https://m.benedict.ch/");
         }
 
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
