@@ -16,7 +16,7 @@ namespace ÖVApp_KOV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Djordje_SBB());
+            Application.Run(new Djordje());
         }
     }
 }

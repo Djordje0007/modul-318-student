@@ -83,7 +83,7 @@ namespace ÖVApp_KOV
             else if (comboBox_Abfahrtsort.Text != "" && comboBox_Ankunftsort.Text == "")
             {
 
-                new Djordje_Abfahrtstafel((Station)comboBox_Abfahrtsort.SelectedItem, transport).Show();
+                new Abfahrtstafel((Station)comboBox_Abfahrtsort.SelectedItem, transport).Show();
 
 
             }

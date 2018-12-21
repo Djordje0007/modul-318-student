@@ -50,7 +50,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\Djordje\DjordjesApp.cs" />
     <Compile Include="Connections.cs" />
     <Compile Include="StationBoardRoot.cs" />
     <Compile Include="Stations.cs" />
